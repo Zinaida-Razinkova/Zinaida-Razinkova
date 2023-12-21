@@ -1,4 +1,4 @@
-### Hi, I'm Zinaida, Front-end developer | Markup developer |  JavaScript, HTML5, CSS3. 👩🏼‍💻
+### Hi, I'm Zinaida, Frontend developer | Markup developer |  JavaScript, HTML5, CSS3. 👩🏼‍💻
 - 📫 Contact with me: https://t.me/zinaida_razinkova
 - 🌱 In my profile you can get acquainted with my projects.
 ### My stack and tools

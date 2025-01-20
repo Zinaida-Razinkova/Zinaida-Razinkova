@@ -1,4 +1,8 @@
-### Hi, I'm Zinaida, Frontend developer | Markup developer |  JavaScript, HTML5, CSS3. 👩🏼‍💻
+### Hi, I'm a passionate Front-End Developer with a strong foundation in creating responsive, mobile-friendly websites. With numerous certifications in web development and hands-on experience, I specialize in HTML, CSS, JavaScript. My designs not only look stunning but also deliver seamless user experiences.
+
+I'm committed to delivering high-quality work, meeting deadlines, and exceeding client expectations. Whether you need a simple landing page, a dynamic web app, or UI/UX enhancements, I can bring your vision to life.
+
+Let's collaborate to build something amazing together!. 👩🏼‍💻
 - 📫 Contact with me: https://t.me/zinaida_razinkova
 - 🌱 In my profile you can get acquainted with my projects.
 ### My stack and tools
